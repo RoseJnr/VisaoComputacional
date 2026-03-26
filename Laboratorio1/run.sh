@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Nome do arquivo fonte e executável
-SRC="lista.cpp"
-EXEC="lista_exercicios"
+SRC="lab1.cpp"
+EXEC="lab1_exercicios"
 IMG="./imagem.jpg"
 
 echo "🔧 Compilando $SRC..."
