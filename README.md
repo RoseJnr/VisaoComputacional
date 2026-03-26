@@ -52,7 +52,7 @@ Cada pasta de laboratório contém:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/VisaoComputacional.git
+   git clone https://github.com/RoseJnr/VisaoComputacional.git
     ````
 
 2. Acesse a pasta desejada:
