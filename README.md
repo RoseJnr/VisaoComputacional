@@ -61,7 +61,12 @@ Cada pasta de laboratório contém:
    cd VisaoComputacional/LaboratorioX
    ```
 
-3. Compile e/ou execute os códigos conforme necessário
+3. Compile e/ou execute os códigos conforme necessário:
+
+    ```bash
+    chmod +x run.sh
+    ./run.sh
+    ```
 
 ## 📌 Observações
 
