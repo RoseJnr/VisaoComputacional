@@ -114,10 +114,8 @@ void exercise2(const string& imagePath) {
 
     Mat gray_image = toGray(image);
 
-    Mat comparison;
-    cv::hconcat(image, gray_image, comparison);
-    cv::namedWindow("Comparativo Original x Cinza", cv::WINDOW_NORMAL);
-    cv::imshow("Comparativo Original x Cinza", comparison);
+    cv::imshow("Imagem Original", image);
+    cv::imshow("Imagem em Cinza", gray_image);
     cv::waitKey(0);
 }
 
